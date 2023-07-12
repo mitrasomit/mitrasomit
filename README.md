@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Azure Development, Azure Data fundamential.**
 
-- 👯 I’m looking to collaborate on **.Net Core ,Restful API, Backend, System Design**
-
-- 💬 Ask me about **Microsoft-365, Graph-API, Software Engineeing**
+- 👯 I’m looking to collaborate on **.Net Core ,Restful API, Backend, System Design, Open to work in any Open Source project**
 
 - 📫 How to reach me **somit91@gmail.com**
 
