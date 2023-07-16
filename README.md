@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somit Mitra</h1> 
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl5NmkwNmY1cHBua3ducmxkbTR2eDRtbmpxcHlldWt3OHo4MW1hdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitrasomit&label=Profile%20views&color=0e75b6&style=flat" alt="mitrasomit" /> </p>
+
 
 - 🔭 I’m currently working on [Microsoft Graph-API](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
 
