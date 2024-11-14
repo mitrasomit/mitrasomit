@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-- 🔭 I’m currently working on [Microsoft Graph-API](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
+- 🔭 I’m currently working on [Microsoft Graph-API](https://github.com/microsoftgraph/msgraph-sdk-dotnet) and [Declarative CoPilot for Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent)
 
 - 🌱 I’m currently learning **Azure Development, Azure Data fundamential, Azure AI**
 
