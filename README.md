@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Microsoft Graph-API](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
 
-- 🌱 I’m currently learning **Azure Development, Azure Data fundamential.**
+- 🌱 I’m currently learning **Azure Development, Azure Data fundamential, Azure AI**
 
-- 👯 I’m looking to collaborate on **.Net Core ,Restful API, Backend, System Design, Open to work in any Open Source project**
+- 👯 I’m looking to collaborate on **Microsoft-365, Azure Dev, CoPilot Enhancement, .Net Core ,Restful API, Backend, System Design, Open to work in any Open Source project**
 
 - 📫 How to reach me **somit91@gmail.com**
 
